@@ -1,0 +1,68 @@
+# Kurumsal Klasör Tarama Raporu
+
+- **Hedef:** `C:\Users\ceyhu\Downloads`
+- **Tarih:** 2026-01-01 20:46:54
+- **Toplam dosya:** 32
+- **Toplam boyut:** 305.61 MB
+- **Rapor ID:** 20260101_204654
+
+## KPI Özeti
+| KPI | Değer |
+|---|---:|
+| Dosya adedi | 32 |
+| Toplam boyut | 305.61 MB |
+| Uzantı çeşitliliği | 10 |
+| Riskli dosya adedi (heuristik) | 0 |
+
+## Uzantı Dağılımı (Top 30)
+| Uzantı | Adet |
+|---|---:|
+| `.ps1` | 9 |
+| `.yml` | 7 |
+| `.exe` | 4 |
+| `.docx` | 3 |
+| `.json` | 3 |
+| `.txt` | 2 |
+| `.py` | 1 |
+| `.ini` | 1 |
+| `.gz` | 1 |
+| `.md` | 1 |
+
+## En Büyük Dosyalar (Top 50)
+| Boyut | Dosya |
+|---:|---|
+| 173.18 MB | `GitHubDesktopSetup-x64.exe` |
+| 130.19 MB | `Claude Setup.exe` |
+| 1.06 MB | `Gem Cloud - Powered By (Gemini) AI Chatbot Installer.exe` |
+| 1.06 MB | `ChatGPT Installer.exe` |
+| 16.37 KB | `Yapay_Zeka_Talimatlari_v7_SimonAI.docx` |
+| 14.21 KB | `Yapay_Zeka_Talimatlari_v7_Genel.docx` |
+| 12.12 KB | `SOHBET_GECIS_BELGESI.docx` |
+| 10.15 KB | `deploy-faz3.ps1` |
+| 7.23 KB | `PROJE_DURUMU.md` |
+| 6.52 KB | `FAZ_3_OZET.txt` |
+| 6.30 KB | `api_metrics.py` |
+| 5.72 KB | `full-deploy.ps1` |
+| 5.61 KB | `observability\grafana\dashboards\json\agent-performance.json` |
+| 5.33 KB | `test-observability.ps1` |
+| 4.97 KB | `observability\grafana\dashboards\json\cost-tracking.json` |
+| 4.31 KB | `observability.tar.gz` |
+| 3.58 KB | `ev_pc_kurulum_fix.txt` |
+| 3.36 KB | `observability\grafana\dashboards\json\system-metrics.json` |
+| 3.34 KB | `observability\alert.rules.yml` |
+| 3.07 KB | `fix-mainpy-syntax.ps1` |
+| 2.46 KB | `fix-prometheus.ps1` |
+| 2.18 KB | `docker-compose.yml` |
+| 2.14 KB | `docker-compose.observability.yml` |
+| 2.11 KB | `setup-master-report.ps1` |
+| 2.01 KB | `add-metrics-call.ps1` |
+| 1.76 KB | `add-enable-metrics.ps1` |
+| 1.46 KB | `observability\prometheus.yml` |
+| 880 B | `observability\loki-config.yml` |
+| 746 B | `quick-check.ps1` |
+| 630 B | `observability\grafana\datasources\datasources.yml` |
+| 296 B | `observability\grafana\dashboards\dashboards.yml` |
+| 282 B | `desktop.ini` |
+
+## Risk / Dikkat (Heuristik)
+- Belirgin riskli dosya bulunmadı (heuristik).

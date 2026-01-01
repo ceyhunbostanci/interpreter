@@ -1,0 +1,33 @@
+relative_path,ext,size_bytes
+add-enable-metrics.ps1,.ps1,1805
+add-metrics-call.ps1,.ps1,2062
+api_metrics.py,.py,6455
+ChatGPT Installer.exe,.exe,1106976
+Claude Setup.exe,.exe,136515232
+deploy-faz3.ps1,.ps1,10393
+desktop.ini,.ini,282
+docker-compose.observability.yml,.yml,2190
+docker-compose.yml,.yml,2237
+ev_pc_kurulum_fix.txt,.txt,3665
+FAZ_3_OZET.txt,.txt,6679
+fix-mainpy-syntax.ps1,.ps1,3147
+fix-prometheus.ps1,.ps1,2521
+full-deploy.ps1,.ps1,5862
+Gem Cloud - Powered By (Gemini) AI Chatbot Installer.exe,.exe,1106976
+GitHubDesktopSetup-x64.exe,.exe,181592536
+observability.tar.gz,.gz,4418
+PROJE_DURUMU.md,.md,7408
+quick-check.ps1,.ps1,746
+setup-master-report.ps1,.ps1,2157
+SOHBET_GECIS_BELGESI.docx,.docx,12410
+test-observability.ps1,.ps1,5458
+Yapay_Zeka_Talimatlari_v7_Genel.docx,.docx,14551
+Yapay_Zeka_Talimatlari_v7_SimonAI.docx,.docx,16763
+observability\alert.rules.yml,.yml,3425
+observability\loki-config.yml,.yml,880
+observability\prometheus.yml,.yml,1498
+observability\grafana\dashboards\dashboards.yml,.yml,296
+observability\grafana\dashboards\json\agent-performance.json,.json,5747
+observability\grafana\dashboards\json\cost-tracking.json,.json,5093
+observability\grafana\dashboards\json\system-metrics.json,.json,3436
+observability\grafana\datasources\datasources.yml,.yml,630

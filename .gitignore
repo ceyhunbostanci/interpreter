@@ -1,0 +1,7 @@
+archives/*.zip
+*.key
+*.pem
+*.env
+__pycache__/
+.venv/
+node_modules/
